@@ -1,0 +1,23 @@
+ Petriuko  pazymiai
+6 10 8 5 6 8 4 8 5 9 10 5 4 8 9 10 9 5 8 10 8 9 7 10 8 9 8 9 7 5 10 9 2 5 
+0
+1
+0
+2
+6
+2
+2
+8
+7
+6
+Petriuko pazymiu kiekiai
+2-uku turim 1
+4-uku turim 2
+5-uku turim 6
+6-uku turim 2
+7-uku turim 2
+8-uku turim 8
+9-uku turim 7
+10-uku turim 6
+
+Daugiausia turi  (kiekis: 8)
